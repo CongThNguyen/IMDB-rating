@@ -1,7 +1,5 @@
 # Machine Learning in Python - Project 1
 
-Due Friday, March 5th by 5 pm (UK local time)
-
 ## Data
 
 We will be using data about the American TV show The Office. These data are provided as `the_office.csv` in this repository and are meant to give you a reasonable starting point for this assignment. The dataset includes the following columns:
@@ -60,38 +58,5 @@ Overall, your project will be partially assessed on your organization / presenta
 
 ## Group work
 
-This project may be completed by a team of up to 4 students. We will not be assigning or forming teams, if you are a team that is looking for more members or someone looking for a team please use the pinned post on Piazza to find each other.
+This project is completed by a team of up to 4 students.
 
-After the assignment is completed we will distribute a brief peer evaluation survey - members who contributed significantly less than their peers will potentially have their overall mark penalized.
-
-## Submission
-
-This project is due Friday, March 5th by 5 pm (UK local time). You are expected to submit your completed work as follows:
-
-* Submit a PDF of your report (generated from a Jupyter notebook) to the Project 1 assignment on Gradescope.
-
-* Submit your `ipynb` notebook file and any supplementary data and script files to the Project 1 assignment on Learn.
-
-Both submission steps are necessary for your work to be considered submitted. Standard late penalties will apply if either piece is not submitted by the deadline.
-
-For a team submission - all contributors should be added to the assignment. Only one team member needs to submit the ipynb notebook on Learn.
-
-
-
-## Marking Rubric
-
-The project will be marked out of 100, and we will be using the following rubric to roughly guide the marking:
-
-* **>90**: The code runs without errors. Models are implemented, fit, and assessed correctly. The final model achieves a high level of predictive accuracy and is well documented and described in the writeup. There is significant and creative additional investigation of the problem including the use of addition data sources for features. Potentially could be used as a model answer. Write-up evidences deep understanding of the data and the model(s).
-
-* **80-89**: The code runs without errors. Models are implemented, fit, and assessed correctly. The write up is generally good and the code is appropriately commented. The final model achieves a reasonable level of predictive accuracy and is well documented and described in the writeup. There is moderate additional investigation of the problem. Write-up evidences good understanding of the data and the model(s).
-
-* **70-79**: The code runs without errors. Models are implemented, fit, and assessed correctly with only minor issues. The write-up is reasonable but could be better. Write-up evidences adequate understanding of the data and the model(s).
-
-* **60-69**: The code runs without errors. Models are implemented, fit, and assessed correctly with only moderate issues. The write-up is ok but could be better, includes some moderate errors or omissions. Write-up evidences adequate understanding of the data and the model(s).
-
-* **50-59**: The code runs with some errors. Models are implemented, fit, and assessed but with some significant issues in implementation and or understanding. The write-up is marginal and includes some significant errors or omissions. Write-up evidences an incomplete understanding of the data and the model(s).
-
-* **<49**: Significant issues with the code, model(s), and/or the write up. Write-up evidences an incomplete understanding of the data and the model(s).
-
-Using these criteria, specific rubrics will be used to assess each of the 4 required sections of the project.
